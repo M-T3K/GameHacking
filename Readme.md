@@ -28,5 +28,5 @@ If you are on Linux:
 
 ## Curated Lists (Awesome)
 
-- [GamHacking](https://github.com/dsasmblr/game-hacking)
+- [GameHacking](https://github.com/dsasmblr/game-hacking)
 - [Hacking Online Games](https://github.com/dsasmblr/hacking-online-games)

@@ -20,6 +20,8 @@ If you are looking for PoCs:
 
 - [CSGOSimple](https://github.com/spirthack/CSGOSimple)
 - [Antario](https://github.com/Wando1423/Antario)
+- [Snowflake](https://github.com/cyanidee/snowflake)
+- [Valve´s Source SDK](https://github.com/ValveSoftware/source-sdk-2013)
   
 If you are on Linux:
 

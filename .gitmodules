@@ -1,3 +1,9 @@
 [submodule "CSGOSimple"]
 	path = CSGOSimple
 	url = https://github.com/spirthack/CSGOSimple
+[submodule "Injectors"]
+	path = Injectors
+	url = https://github.com/rootm0s/Injectors
+[submodule "ProcessInjection"]
+	path = ProcessInjection
+	url = https://github.com/sud01oo/ProcessInjection

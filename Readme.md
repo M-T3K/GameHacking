@@ -2,9 +2,20 @@
 
 All Things GameHacking.
 
+## Important Notice!
+
+IMPORTANT NOTICE: I am not affiliated with Valve nor any of the authors of the following repositories. I can't provide support for any of the following materials to which I do not contribute. The information presented here is so without any warranty, and only exposed for academic purposes. I don't condone the use of cheating software, nor inappropriate uses of anything contained within this repository.
+
+Specifically, I can (and will) only help you with the following:
+- My Slides, currently this includes the Spanish version.
+- Syren Injector
+- CSGOSimple (to a certain extent, but I do not guarantee anything).
+
 ## Slides
 
-- [Español](https://docs.google.com/presentation/d/1CeG5NROWjmcwtdTje3JiJcpqPbIYlSrJJ8MGwgNbjdk/edit?usp=sharing).
+- Español:
+    -  [GameHacking: Juguemos *con* el juego](https://drive.google.com/open?id=1CeG5NROWjmcwtdTje3JiJcpqPbIYlSrJJ8MGwgNbjdk)
+    -  [~~GameHacking++: The (Good) Sequel~~](#) (Missing cuz' spoilers).
 - [English / Coming Soon](#).
 - [русский / Coming Soon](#).
 - [Français / Coming Soon](#).
@@ -23,11 +34,16 @@ If you are looking for PoCs:
 
 - [Blackbone](https://github.com/DarthTon/Blackbone)
 
-## CS:GO Stuff
+## CS:GO & Source Engine Stuff
+
+Cheat Bases:
 
 - [CSGOSimple](https://github.com/spirthack/CSGOSimple)
 - [Antario](https://github.com/Wando1423/Antario)
 - [Snowflake](https://github.com/cyanidee/snowflake)
+
+Valve's Stuff:
+
 - [Valve´s Source SDK](https://github.com/ValveSoftware/source-sdk-2013)
   
 If you are on Linux:

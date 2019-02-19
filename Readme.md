@@ -1,6 +1,13 @@
-# Gamehacking
+﻿# Gamehacking
 
 All Things GameHacking.
+
+## Slides
+
+- [Español](https://docs.google.com/presentation/d/1CeG5NROWjmcwtdTje3JiJcpqPbIYlSrJJ8MGwgNbjdk/edit?usp=sharing).
+- [English / Coming Soon](#).
+- [русский / Coming Soon](#).
+- [Français / Coming Soon](#).
 
 ## Injectors
 

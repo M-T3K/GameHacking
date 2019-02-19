@@ -7,3 +7,21 @@
 [submodule "ProcessInjection"]
 	path = ProcessInjection
 	url = https://github.com/sud01oo/ProcessInjection
+[submodule "Kernel-dll-injector"]
+	path = Kernel-dll-injector
+	url = https://github.com/alex9191/Kernel-dll-injector
+[submodule "Blackbone"]
+	path = Blackbone
+	url = https://github.com/DarthTon/Blackbone
+[submodule "Antario"]
+	path = Antario
+	url = https://github.com/Wando1423/Antario
+[submodule "snowflake"]
+	path = snowflake
+	url = https://github.com/cyanidee/snowflake
+[submodule "Syren"]
+	path = Syren
+	url = https://github.com/M-T3K/Syren
+[submodule "AimTux"]
+	path = AimTux
+	url = https://github.com/AimTuxOfficial/AimTux

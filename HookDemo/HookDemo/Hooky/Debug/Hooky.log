@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+c:\users\prince_kiwii\programming\gamehacking\gamehacking\hookdemo\hookdemo\hooky\dllmain.cpp(39): warning C4229: anachronism used: modifiers on data are ignored
+c:\users\prince_kiwii\programming\gamehacking\gamehacking\hookdemo\hookdemo\hooky\dllmain.cpp(22): warning C4715: 'hooky': not all control paths return a value
+  Hooky.vcxproj -> C:\Users\Prince_Kiwii\Programming\GameHacking\GameHacking\HookDemo\HookDemo\Debug\Hooky.dll

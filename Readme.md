@@ -15,7 +15,7 @@ Specifically, I can (and will) only help you with the following:
 
 - Español:
     -  [GameHacking: Juguemos *con* el juego](https://drive.google.com/open?id=1CeG5NROWjmcwtdTje3JiJcpqPbIYlSrJJ8MGwgNbjdk)
-    -  [~~GameHacking++: The (Good) Sequel~~](#) (Missing cuz' spoilers).
+    -  [~~GameHacking++: The (Good) Sequel](https://docs.google.com/presentation/d/1xCKUW6t7eAA1lXYHZkJ1tClbM8eS4yAqp-e6E1A5WKc/edit?usp=sharing)
 - [English / Coming Soon](#).
 - [русский / Coming Soon](#).
 - [Français / Coming Soon](#).
@@ -44,7 +44,7 @@ Cheat Bases:
 
 Valve's Stuff:
 
-- [Valve´s Source SDK](https://github.com/ValveSoftware/source-sdk-2013)
+- [Valve's Source SDK](https://github.com/ValveSoftware/source-sdk-2013)
   
 If you are on Linux:
 
